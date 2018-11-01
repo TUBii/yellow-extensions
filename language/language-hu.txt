@@ -18,8 +18,8 @@ ContactStatusIncomplete: Kérlek töltsd ki a mezőket.
 ContactStatusInvalid: Kérlek érvényes e-mail címet adj meg.
 ContactStatusDone: Sikeresen elküldted az üzenetet.
 ContactStatusError: A küldés sikertelen volt. Kérlek próbáld meg később.
-DatePast: today, yesterday, @x days ago, 1 month ago, @x months ago, 1 year ago, @x years ago
-DateFuture: soon, tomorrow, in @x days, in 1 month, in @x months, in 1 year, in @x years
+DatePast: ma, tegnap, @x napja, 1 hóapja, @x hóapja, 1 éve, @x éve
+DateFuture: nemsokára, holnap,  @x nap múlva, 1 hónap múlva, @x hónap múlva, egy éven belül, @x év múlva
 DateMonths: Január, Február, Március, Április, Május, Június, Július, Augusztus, Szeptember, Október, November, December
 DateWeekdays: Hétfő, Kedd, Szerda, Csütörtök, Péntek, Szombat, Vasárnap
 DateWeekstart: Hétfő
@@ -43,10 +43,10 @@ EditSignupStatusIncomplete: Kérlek minden mezőt tölts ki.
 EditSignupStatusInvalid: Kérlek helyes email cimed adj meg.
 EditSignupStatusWeak: Kérlek adj meg egy másik jelszót.
 EditSignupStatusNext: A felhasználó létre lett hozva, kérlek ellenőrizzed az email fiókod.
-EditForgotTitle: Elfelejtett jelszo
+EditForgotTitle: Elfelejtett jelszó
 EditForgotEmail: Email:
 EditForgotStatusNone: Semmi gond, itt be tudod állítani az új jelszavad.
-EditForgotStatusInvalid: Kérlek helyes email cimed adj meg.
+EditForgotStatusInvalid: Kérlek helyes email címed adj meg.
 EditForgotStatusNext: A felhasználó létre lett hozva, kérlek ellenőrizzed az email fiókod.
 EditRecoverTitle: Elfelejtett jelszó
 EditRecoverPassword: Jelszó:
@@ -55,7 +55,7 @@ EditRecoverStatusWeak: Kérlek adj meg egy másik jelszót.
 EditSettingsTitle: Beállítások
 EditSettingsQuit: Bármikor törölheted a fiókodat.
 EditSettingsMore: Bővebben…
-EditSettingsStatusInvalid: Kérlek helyes email cimed adj meg.
+EditSettingsStatusInvalid: Kérlek helyes email címed adj meg.
 EditSettingsStatusTaken: Kérlek adj meg egy másik email címet.
 EditSettingsStatusWeak: Kérlek adj meg egy másik jelszót.
 EditSettingsStatusNext: A fiók meg lett véltoztatva. Kérlek nézzed meg az emailjeidet.
@@ -69,7 +69,7 @@ EditConfirmStatusDone: A fiók jóvá vissza lett igazolva és még vár a jóv�
 EditApproveSubject: Felhasználó jóváhagyása.
 EditApproveMessage: Szia @usershort,\n\nKérlek hagyjad jóvá a @useraccount fiókot. Kattints a következó linkre.
 EditApproveStatusDone: Felhasználói fiók jóváhagyva. Köszönöm!
-EditReactivateSubject: Felhasználói fiók reaktiválása
+EditReactivateSubject: Felhasználói fiók újra aktiválása
 EditReactivateMessage: Szoa @usershort,\n\nKérlek aktiváld újra a fiókodat. Túl sok sikertelen belépést észleltünk. Kattints a következó linkre.
 EditReactivateStatusDone: Felhasználói fiók újra aktív. Köszönöm!
 EditRecoverSubject: Felhasználói fiók visszaállítása
