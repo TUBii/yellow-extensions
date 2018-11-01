@@ -11,15 +11,15 @@ BlogMore: Čítať ďalej…
 ContactName: Meno:
 ContactEmail: Email:
 ContactMessage: Správa:
-ContactConsent: Soglašam, da ta spletna stran shrani moje sporočilo.
+ContactConsent: Súhlasím, ye táto webstránka uloží moje príspevky.
 ContactButton: Poslať správu
 ContactStatusNone: Napíš pár slov. Ceníme tvoj názor.
 ContactStatusIncomplete: Prosím vyplň všetky pole.
 ContactStatusInvalid: Prosím napíš platný email.
 ContactStatusDone: Správa odoslaná. Ďakujem.
 ContactStatusError: Nepodarilo sa poslať správu. Skús to neskôr!
-DatePast: today, yesterday, @x days ago, 1 month ago, @x months ago, 1 year ago, @x years ago
-DateFuture: soon, tomorrow, in @x days, in 1 month, in @x months, in 1 year, in @x years
+DatePast: dneska, včera, pred @x dnami, pred mesiacom, pred @x mesiacmi, pred rokom, pred @x rokmi
+DateFuture: hned, zajtra, za @x dní, o mesiac, o @x mesiacov, o rok, za @x rokov
 DateMonths: Január, Február, Marec, Apríl, Máj, Jún, Júl, August, September, Octóber, November, December
 DateWeekdays: Pondelok, Utorok, Streda, Štvrtok, Piatok, Sobota, Nedeľa
 DateWeekstart: Pondelok
@@ -28,20 +28,20 @@ DateFormatMedium: d-m-Y
 DateFormatLong: d-m-Y H:i
 EditLoginTitle: Vitajte
 EditLoginEmail: Email:
-EditLoginPassword: Password:
-EditLoginForgot: Forgot your password?
-EditLoginSignup: Create user account?
-EditLoginButton: Log in
-EditSignupTitle: Create user account
-EditSignupName: Name:
+EditLoginPassword: Heslo:
+EditLoginForgot: Zabudol si heslo?
+EditLoginSignup: Vytvorit konto?
+EditLoginButton: Prihlásiť sa
+EditSignupTitle: Vytvoriť nové konto
+EditSignupName: Meno:
 EditSignupEmail: Email:
-EditSignupPassword: Password:
-EditSignupConsent: I consent that this website stores my personal data.
-EditSignupButton: Create
-EditSignupStatusNone: Here you can create a new user account.
-EditSignupStatusIncomplete: Please fill out all fields.
-EditSignupStatusInvalid: Please enter a valid email.
-EditSignupStatusWeak: Please enter a different password.
+EditSignupPassword: Heslo:
+EditSignupConsent: Súhlasím, ye táto webstránka uloží moje osobné údaje.
+EditSignupButton: Vytvoriť
+EditSignupStatusNone: Tu môžes vytvoriť nové konto.
+EditSignupStatusIncomplete: Prosim ťa vyplň všetky údaje.
+EditSignupStatusInvalid: Prosím ťa zadaj spravý email.
+EditSignupStatusWeak: Prosím ťa zadaj iné heslo.
 EditSignupStatusNext: User account will be created, please check your emails.
 EditForgotTitle: Forgot your password
 EditForgotEmail: Email:
