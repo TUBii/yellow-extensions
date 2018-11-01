@@ -67,37 +67,37 @@ EditConfirmSubject: Fiók jóváhagyása
 EditConfirmMessage: Szia @usershort,\n\njelezzed vissza a fiókod létrehozását. Kattints a következó linkre.
 EditConfirmStatusDone: A fiók jóvá vissza lett igazolva és még vár a jóváhagyásra. Köszönöm!
 EditApproveSubject: Felhasználó jóváhagyása.
-EditApproveMessage: Szia @usershort,\n\nKérlek haggyad jóvá a @useraccount fiókot. Kattints a következó linkre.
+EditApproveMessage: Szia @usershort,\n\nKérlek hagyjad jóvá a @useraccount fiókot. Kattints a következó linkre.
 EditApproveStatusDone: Felhasználói fiók jóváhagyva. Köszönöm!
 EditReactivateSubject: Felhasználói fiók reaktiválása
 EditReactivateMessage: Szoa @usershort,\n\nKérlek aktiváld újra a fiókodat. Túl sok sikertelen belépést észleltünk. Kattints a következó linkre.
 EditReactivateStatusDone: Felhasználói fiók újra aktív. Köszönöm!
-EditRecoverSubject: Recover user account
-EditRecoverMessage: Hi @usershort,\n\nplease confirm that you forgot your password. Click the following link.
-EditRecoverStatusDone: User account recovered. Thank you!
-EditVerifySubject: Confirm user account
-EditVerifyMessage: Hi @usershort,\n\nplease confirm a new email for your user account. Click the following link.
-EditVerifyStatusDone: User account confirmed. Thank you!
-EditChangeSubject: Change user account
-EditChangeMessage: Hi @usershort,\n\nplease confirm that you want to change your user account. Click the following link.
-EditChangeStatusDone: User account changed. Thank you!
-EditRemoveSubject: Delete user account
-EditRemoveMessage: Hi @usershort,\n\nplease confirm that you want to delete your user account. Click the following link.
+EditRecoverSubject: Felhasználói fiók visszaállítása
+EditRecoverMessage: Szia @usershort,\n\nKérlek igazold vissza az elfelejtett jelszavad. Kattints a következó linkre.
+EditRecoverStatusDone: A felhasználói fiók sikeresen visszaállítva. Köszönjük!
+EditVerifySubject: Felhasználói fiók megerősítése
+EditVerifyMessage: Szia @usershort,\n\nKérlek erősítsd meg az email címed. Kattints a következó linkre.
+EditVerifyStatusDone: A felhasználói fiók megerősítve. Köszönöm!
+EditChangeSubject: Felhasználói fiók módosítása
+EditChangeMessage: Szia @usershort,\n\npKérlek erősítsd meg a fiók módosításait. Kattints a következó linkre.
+EditChangeStatusDone: A felhasználói fiók meg lett változtatva. Köszönöm!
+EditRemoveSubject: Felhansználói fiók törlése.
+EditRemoveMessage: Szia @usershort,\n\nKérlek erősítsd meg, hogy törölni szeretnéd a fiókodat. Kattints a következó linkre.
 EditRemoveStatusDone: User account deleted. Thank you!
-EditWelcomeSubject: Welcome
-EditWelcomeMessage: Hi @usershort,\n\nyour user account has been created. Have fun editing the website.
-EditGoodbyeSubject: Goodbye
-EditGoodbyeMessage: Hi @usershort,\n\nyour user account has been deleted. Take care.
-EditVersionTitle: About this website
-EditVersionStatusNone: Datenstrom Yellow is for people who make websites.
-EditVersionStatusCheck: Checking for updates…
-EditVersionStatusDone: Your website is up to date.
-EditVersionStatusWarning: Updates available, please update your website.
-EditVersionStatusUpdates: Updates available, update now.
-EditVersionUpdateForce: Force update
-EditVersionUpdateModified: @software has been modified
-EditUploadProgress: [Uploading file…]
-EditOkButton: Ok
+EditWelcomeSubject: Üdvözöllek!
+EditWelcomeMessage: Szia @usershort,\n\nA felhasználói fiókod letre lett hozva. Ezekután bátran módosíthatod ezt a weboldalt.
+EditGoodbyeSubject: Visznát!
+EditGoodbyeMessage: Szia @usershort,\n\nA felhasználói fiókod torolve.
+EditVersionTitle: A weboldalról
+EditVersionStatusNone: Datenstrom Yellow azoknak akik weboldalakat terveznek.
+EditVersionStatusCheck: Frissítések ellenőrzése…
+EditVersionStatusDone: A weboldal .
+EditVersionStatusWarning: Új frissítések érhetőek el. Kérlek telepítsed!
+EditVersionStatusUpdates: Kérlek frissítsed a weboldaladat.
+EditVersionUpdateForce: Kötelező frissítés
+EditVersionUpdateModified: @software módosítva lett.
+EditUploadProgress: [Feltöltés folyamatban…]
+EditOkButton: Rendben
 EditCancelButton: Mégse
 EditCreateButton: Létrehozás
 EditEditButton: Mentés
@@ -106,39 +106,39 @@ EditEdit: Szerkesztés
 EditCreate: +
 EditDelete: -
 EditToolbarPreview: Előnézet
-EditToolbarFormat: Format
-EditToolbarHeading: Heading
-EditToolbarH1: Heading 1
-EditToolbarH2: Heading 2
-EditToolbarH3: Heading 3
-EditToolbarParagraph: Normal text
-EditToolbarPre: Source code
-EditToolbarQuote: Quote
+EditToolbarFormat: Formázás
+EditToolbarHeading: Fejléc
+EditToolbarH1: Fejléc 1
+EditToolbarH2: Fejléc 2
+EditToolbarH3: Fejléc 3
+EditToolbarParagraph: Rendes szöveg
+EditToolbarPre: Forrás kód
+EditToolbarQuote: Idézet
 EditToolbarBold: Bold
 EditToolbarItalic: Italic
 EditToolbarStrikethrough: Strikethrough
 EditToolbarCode: Code
-EditToolbarList: List
-EditToolbarUl: • Unordered list
-EditToolbarOl: 1. Ordered list
-EditToolbarTl: ✓ Task list
+EditToolbarList: Lista
+EditToolbarUl: • Rendezetlen lista
+EditToolbarOl: 1. Rendezett lista
+EditToolbarTl: ✓ Feladatok
 EditToolbarLink: Link
 EditToolbarFile: File
 EditToolbarEmojiawesome: Emoji
 EditToolbarFontawesome: Icon
-EditToolbarDraft: Draft
-EditToolbarUndo: Undo
-EditToolbarRedo: Redo
+EditToolbarDraft: Vázlat
+EditToolbarUndo: Előre
+EditToolbarRedo: Vissza
 EditToolbarMarkdown: Markdown
 EditToolbarHelp: Súgó
 EditUserHelp: Súgó
 EditUserLogout: Kijelentkezés
 InstallTitle: Helló
-InstallFeature: What do you want to make?
-InstallHomeTitle: Home
-InstallHomeText: Your website works!\n\n[edit - You can edit this page] or use your text editor.
-InstallAboutTitle: About
-InstallAboutText: This website is made with [Datenstrom Yellow](https://datenstrom.se/yellow/). [edit - Log in].
+InstallFeature: Mit szeretnél létrehozni?
+InstallHomeTitle: Főoldal
+InstallHomeText: A weboldal működik!\n\n[Módosítás - Itt tudod a tartalmat módosítani] vagy használhatsz szövegszerkesztőt is.
+InstallAboutTitle: Rólunk
+InstallAboutText: Ez a weboldal [Datenstrom Yellow](https://datenstrom.se/yellow/) rendszerrel készült. [Módosítás - Belépés].
 PagePrevious: ← Előző: @title
 PageNext: Tovább: @title →
 PaginationPrevious: ← Előző
